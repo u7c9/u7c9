@@ -1,5 +1,5 @@
 Hi 👋, I'm Luston
-A passionate fullstack developer from Turkey
+A passionate fullstack developer from Azerbaijan
 Connect with me:
 Luston#2022
 
